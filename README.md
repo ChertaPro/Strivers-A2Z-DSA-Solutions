@@ -1,6 +1,6 @@
 # Strivers-A2Z-DSA-Solutions
 
-Este repositorio contiene mis soluciones personales para la **[Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)** [reference:1].
+Este repositorio contiene mis soluciones personales para la **[Striver's A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)**.
 
 ## 📚 Sobre el proyecto
 
